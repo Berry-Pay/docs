@@ -9,6 +9,19 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Plataforma",
+          "icon": "dollar-sign",
+          "color": {
+            "light": "#1a2b56",
+            "dark": "#1a2b56"
+          },
+          "href": "https://app.berrypay.com.br"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Guides",
@@ -67,21 +80,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
