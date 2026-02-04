@@ -92,6 +92,7 @@
       {
         "tab": "Comprador",
         "pages": [
+          "comprador",
           "reembolso"
         ]
       }
