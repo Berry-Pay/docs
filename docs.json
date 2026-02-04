@@ -79,6 +79,21 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Produtor",
+        "groups": [
+          {
+            "group": "Produto",
+            "pages": []
+          }
+        ]
+      },
+      {
+        "tab": "Comprador",
+        "pages": [
+          "reembolso"
+        ]
       }
     ]
   },
