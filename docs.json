@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
-  "name": "Mint Starter Kit",
+  "theme": "almond",
+  "name": "Central de Ajuda Berry Pay",
   "colors": {
     "primary": "#5760e7",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#5760e7",
+    "dark": "#5760e7"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/berry-pay-logo-01.jpeg",
   "navigation": {
     "tabs": [
       {
@@ -89,8 +89,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/berry-pay-logo.png",
+    "dark": "/images/berry-pay-logo.png"
   },
   "navbar": {
     "links": [
@@ -123,5 +123,9 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  }
+  },
+  "appearance": {
+    "strict": false
+  },
+  "description": "Central de Ajuda Berry Pay"
 }
